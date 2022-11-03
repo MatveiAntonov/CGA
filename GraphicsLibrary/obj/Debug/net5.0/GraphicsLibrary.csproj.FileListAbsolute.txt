@@ -1,0 +1,72 @@
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.deps.json
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.dll
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.pdb
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.AssemblyReference.cache
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfoInputs.cache
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfo.cs
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.dll
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\obj\Debug\net5.0\refint\GraphicsLibrary.dll
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.pdb
+C:\Users\001\Desktop\Rubanov\GraphicsLibrary\obj\Debug\net5.0\ref\GraphicsLibrary.dll
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.deps.json
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.dll
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.pdb
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.AssemblyReference.cache
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfoInputs.cache
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfo.cs
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.dll
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\obj\Debug\net5.0\refint\GraphicsLibrary.dll
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.pdb
+C:\Users\001\Desktop\LW-1\GraphicsLibrary\obj\Debug\net5.0\ref\GraphicsLibrary.dll
+D:\akg\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.deps.json
+D:\akg\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.dll
+D:\akg\LW-1\GraphicsLibrary\bin\Debug\net5.0\ref\GraphicsLibrary.dll
+D:\akg\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.pdb
+D:\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.AssemblyReference.cache
+D:\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfoInputs.cache
+D:\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfo.cs
+D:\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.CoreCompileInputs.cache
+D:\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.dll
+D:\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\ref\GraphicsLibrary.dll
+D:\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.deps.json
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.dll
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.AssemblyReference.cache
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfoInputs.cache
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfo.cs
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.CoreCompileInputs.cache
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.dll
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\refint\GraphicsLibrary.dll
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1\GraphicsLibrary\obj\Debug\net5.0\ref\GraphicsLibrary.dll
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.deps.json
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.dll
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.pdb
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfo.cs
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.dll
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\refint\GraphicsLibrary.dll
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.pdb
+C:\Users\1\Downloads\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\ref\GraphicsLibrary.dll
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.deps.json
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.dll
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\bin\Debug\net5.0\GraphicsLibrary.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.AssemblyReference.cache
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfoInputs.cache
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.AssemblyInfo.cs
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.csproj.CoreCompileInputs.cache
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.dll
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\refint\GraphicsLibrary.dll
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\GraphicsLibrary.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\GraphicsLibrary\obj\Debug\net5.0\ref\GraphicsLibrary.dll

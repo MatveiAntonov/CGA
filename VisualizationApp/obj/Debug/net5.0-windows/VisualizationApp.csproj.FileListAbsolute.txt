@@ -1,0 +1,150 @@
+C:\Users\001\Desktop\Rubanov\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.exe
+C:\Users\001\Desktop\Rubanov\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.deps.json
+C:\Users\001\Desktop\Rubanov\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.json
+C:\Users\001\Desktop\Rubanov\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.dev.json
+C:\Users\001\Desktop\Rubanov\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.dll
+C:\Users\001\Desktop\Rubanov\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.pdb
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.AssemblyReference.cache
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.cache
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.lref
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.g.resources
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfoInputs.cache
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfo.cs
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CoreCompileInputs.cache
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CopyComplete
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.dll
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\refint\VisualizationApp.dll
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.pdb
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.genruntimeconfig.cache
+C:\Users\001\Desktop\Rubanov\VisualizationApp\obj\Debug\net5.0-windows\ref\VisualizationApp.dll
+C:\Users\001\Desktop\Rubanov\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.dll
+C:\Users\001\Desktop\Rubanov\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.pdb
+C:\Users\001\Desktop\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.exe
+C:\Users\001\Desktop\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.deps.json
+C:\Users\001\Desktop\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.json
+C:\Users\001\Desktop\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.dev.json
+C:\Users\001\Desktop\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.dll
+C:\Users\001\Desktop\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.pdb
+C:\Users\001\Desktop\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.dll
+C:\Users\001\Desktop\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.pdb
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.AssemblyReference.cache
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.cache
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.lref
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.g.resources
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfoInputs.cache
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfo.cs
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CoreCompileInputs.cache
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CopyComplete
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.dll
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\refint\VisualizationApp.dll
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.pdb
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.genruntimeconfig.cache
+C:\Users\001\Desktop\LW-1\VisualizationApp\obj\Debug\net5.0-windows\ref\VisualizationApp.dll
+D:\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.exe
+D:\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.deps.json
+D:\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.json
+D:\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.dev.json
+D:\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.dll
+D:\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\ref\VisualizationApp.dll
+D:\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.pdb
+D:\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.dll
+D:\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.pdb
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.AssemblyReference.cache
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\App.g.cs
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.cache
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.lref
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.g.resources
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfoInputs.cache
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfo.cs
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CoreCompileInputs.cache
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CopyComplete
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.dll
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\ref\VisualizationApp.dll
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.pdb
+D:\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.genruntimeconfig.cache
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.exe
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.deps.json
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.json
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.dev.json
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.dll
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.dll
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.AssemblyReference.cache
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\App.g.cs
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.cache
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.lref
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.g.resources
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfoInputs.cache
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfo.cs
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CoreCompileInputs.cache
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CopyComplete
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.dll
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\refint\VisualizationApp.dll
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.genruntimeconfig.cache
+D:\BSUIR\7sem\CGA\akg\LW-1\VisualizationApp\obj\Debug\net5.0-windows\ref\VisualizationApp.dll
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.exe
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.deps.json
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.json
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.dev.json
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.dll
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.pdb
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.dll
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.pdb
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.cache
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.lref
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.g.resources
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfo.cs
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CopyComplete
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.dll
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\refint\VisualizationApp.dll
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.pdb
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.genruntimeconfig.cache
+C:\Users\1\Downloads\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\ref\VisualizationApp.dll
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.exe
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.deps.json
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.json
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.runtimeconfig.dev.json
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.dll
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\VisualizationApp.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.dll
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\bin\Debug\net5.0-windows\GraphicsLibrary.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.AssemblyReference.cache
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\App.g.cs
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.cache
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp_MarkupCompile.lref
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\MainWindow.baml
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.g.resources
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfoInputs.cache
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.AssemblyInfo.cs
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CoreCompileInputs.cache
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.csproj.CopyComplete
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.dll
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\refint\VisualizationApp.dll
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.pdb
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\VisualizationApp.genruntimeconfig.cache
+D:\BSUIR\7sem\CGA\akg\LW-1 (2)\LW-1\VisualizationApp\obj\Debug\net5.0-windows\ref\VisualizationApp.dll
